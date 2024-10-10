@@ -31,7 +31,7 @@ const Footer = () => {
           <a href="https://www.github.com">
             <GitHubIcon size={30} />
           </a>
-          <a href="https://www.dribbble.com">
+          <a href="https://www.linkedin.com/feed/">
             <DribbbleIcon size={30} />
           </a>
         </div>

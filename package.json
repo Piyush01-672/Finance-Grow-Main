@@ -6,6 +6,7 @@
     "@aeternity/aepp-sdk": "^13.2.2",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@metamask/providers": "^17.2.1",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.4",
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,7 +15,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "typed": "^10.0.0-beta.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
